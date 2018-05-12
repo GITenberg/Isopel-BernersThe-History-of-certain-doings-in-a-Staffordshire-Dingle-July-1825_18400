@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '7999'
     url: http://www.gutenberg.org/2009/agents/7999
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18400#Isopel-BernersThe-History-of-certain-doings-in-a-Staffordshire-Dingle-July-1825
 gutenberg_issued: '2006-05-16'
 gutenberg_type: Text
 identifiers:
